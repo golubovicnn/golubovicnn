@@ -48,8 +48,9 @@ Sometimes I also work with **Kubernetes, Docker, and Helm**, which means I occas
 * 🧩 DevOps best practices
 * 🧩 The delicate balance between **clean architecture** and **just ship it**
 
----
 <!--
+---
+
 ## 📊 Top Languages (Probably needs to be updated)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=golubovicnn\&layout=compact)
