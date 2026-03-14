@@ -59,7 +59,7 @@ Sometimes I also work with **Kubernetes, Docker, and Helm**, which means I occas
 
 ## 🌍 Human Languages
 
-* 🇷🇸 Serbian which means -> All Balkan languages
+* 🇷🇸 Serbian
 * 🇬🇧 English 🇺🇸
 * 🇩🇪 German 🇦🇹
 * 🇪🇺 Basic understanding of most Slavic languages (enough to read, guess, and occasionally be wrong)
