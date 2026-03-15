@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+%2B+TypeScript+Developer;CKAD+Certified;Building+apps+and+avoiding+meetings;Powered+by+celery+🥬&center=true&width=520&height=45">
 </p>
 
-# Hey 👋
+## Hey, my name is Nikola, some people call me Johnny. Welcome 👋
 
 > Quietly building things on the internet so I don't have to talk to people about them.
 
@@ -77,7 +77,9 @@ Sometimes I also work with **Kubernetes, Docker, and Helm**, which means I occas
 
 ---
 
-## 💡 And here is a quote for the end
+## 💡 And here is a random quote for the end
 
 > “We can only see a short distance ahead, but we can see plenty there that needs to be done.”
 > — Alan Turing
+
+![Profile Views](https://komarev.com/ghpvc/?username=golubovicnn) ![Last Updated](https://img.shields.io/github/last-commit/golubovicnn/golubovicnn?style=flat&color=gray&label=last%20updated)
